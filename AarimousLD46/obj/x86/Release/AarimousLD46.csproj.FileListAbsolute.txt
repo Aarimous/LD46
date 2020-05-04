@@ -1,0 +1,5 @@
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\obj\x86\Release\AarimousLD46.csprojResolveAssemblyReference.cache
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\bin\Release\AarimousLD46.exe
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\bin\Release\AarimousLD46.pdb
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\obj\x86\Release\AarimousLD46.exe
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\obj\x86\Release\AarimousLD46.pdb

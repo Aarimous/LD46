@@ -1,0 +1,2 @@
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\obj\x86\Debug\AarimousLD46.csprojAssemblyReference.cache
+C:\Users\andyo\Desktop\GameDev\LD46\AarimousLD46\AarimousLD46\obj\x86\Debug\AarimousLD46.csproj.CoreCompileInputs.cache

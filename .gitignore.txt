@@ -1,0 +1,2 @@
+AarimousLD46/obj/
+AarimousLD46/bin/
